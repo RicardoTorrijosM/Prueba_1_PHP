@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nombre": "Notebook Gamer",
+        "descripcion": "Notebook 16GB RAM SSD 512GB",
+        "estado": "Disponible"
+    },
+    {
+        "id": 2,
+        "nombre": "Audifonos Bluetooth",
+        "descripcion": "Audifonos con cancelacion de ruido",
+        "estado": "Disponible"
+    }
+]
